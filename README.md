@@ -1,0 +1,2 @@
+# mpm
+Minsk Python Meetup
